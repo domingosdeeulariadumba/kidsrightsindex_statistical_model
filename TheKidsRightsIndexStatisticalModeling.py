@@ -32,8 +32,7 @@ from sklearn.impute import SimpleImputer
 
 # files in the directory
 
-path = (r'C:\Users\domingosdeeularia\Documents\Treinamentos em Curso\Data Analytics\Aulas\2. '
-r'Análise de Dados com Python\Apresentação\Notebooks\KidsRightsIndex\Scoretables')
+path = (r'C:\Users\domingosdeeularia\...\KidsRightsIndex\Scoretables')
 
 files_list = os.listdir(path)
 
