@@ -130,7 +130,7 @@ results.summary()
 # ## Closing Remarks
 
 '''
-So, given that the p-value is lower thas 0.05, which is the 
+So, given that the p-value is lower than 0.05 (for every predictor), which is the 
 significance level defined has the decision criterion to analyse the 
 relationship between the inputs and the output, we can affirm that evidences 
 has shown with 95% of confidence  that about 78% (Adj. R-squared) of the 
