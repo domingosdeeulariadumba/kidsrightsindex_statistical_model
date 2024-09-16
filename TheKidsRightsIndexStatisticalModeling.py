@@ -119,9 +119,6 @@ model = sm.OLS(y,X)
 results = model.fit()
 
 
-# In[21]:
-
-
 # Results Summary
 
 results.summary()
